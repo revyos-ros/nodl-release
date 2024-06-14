@@ -1,3 +1,28 @@
+## nodl (jazzy) - 0.3.1-6
+
+The packages in the `nodl` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv/bin/bloom-release -r jazzy nodl --override-release-repository-push-url git@github.com:revyos-ros/nodl-release.git` on `Fri, 14 Jun 2024 00:43:43 -0000`
+
+These packages were released:
+- `nodl_python`
+- `ros2nodl`
+
+Version of package(s) in repository `nodl`:
+
+- upstream repository: https://github.com/ubuntu-robotics/nodl.git
+- release repository: https://github.com/revyos-ros/nodl-release.git
+- rosdistro version: `0.3.1-5`
+- old version: `0.3.1-5`
+- new version: `0.3.1-6`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## nodl (foxy) - 0.3.1-1
 
 The packages in the `nodl` repository were released into the `foxy` distro by running `/usr/bin/bloom-release nodl --rosdistro foxy -e` on `Fri, 20 Nov 2020 21:05:57 -0000`
